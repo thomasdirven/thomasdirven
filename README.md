@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Get in touch
 
-Personal website: <a href = "https://thomasdirven.me/">thomasdiven.me</a>
+Personal website: <a href = "https://thomasdirven.github.io/">thomasdiven.me</a>
   
 
 ## Some of my projects
