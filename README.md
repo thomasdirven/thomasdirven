@@ -38,10 +38,11 @@ With the following project we won the Projects-Workshops Programming II Project 
 <br>
 <a href = "https://github.com/thomasdirven/actemium-support-ticket-system-dotnet">School assignment - Actemium Support Ticket System - .NET CORE Web App for Customers</a>
 
-
+<!--
 ## My GitHub Stats
 ![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasdirven&show_icons=true&theme=dark)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasdirven&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
+-->
 
