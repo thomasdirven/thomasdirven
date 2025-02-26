@@ -15,11 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<!--
+
 ## Get in touch
 
 Personal website: <a href = "https://thomasdirven.github.io/">thomasdiven.github.io</a>
+
+-->
+
+
+## High-Level Overview of my most important projects
+
+<https://github.com/thomasdirven/projects-overview>
   
 
+<!--
 ## Some of my projects
 
 This summer I worked 9 weeks as a full stack developer at Volvo Cars Ghent. I made an application that allows to business to configure their own visualizations of the production lines in the Volvo Cars factories. I'm not allowed to share my code but I made a short (and a long) demo video of what I have made there.
@@ -37,6 +48,8 @@ With the following project we won the Projects-Workshops Programming II Project 
 <a href = "https://github.com/thomasdirven/actemium-support-ticket-system-dotnet">School assignment - Actemium Support Ticket System - Java Desktop Back-Office for Employees</a>
 <br>
 <a href = "https://github.com/thomasdirven/actemium-support-ticket-system-dotnet">School assignment - Actemium Support Ticket System - .NET CORE Web App for Customers</a>
+-->
+
 
 <!--
 ## My GitHub Stats
